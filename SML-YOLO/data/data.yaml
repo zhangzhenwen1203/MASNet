@@ -1,0 +1,7 @@
+train: E:\ZZW\YOLOv9\data\train
+val: E:\ZZW\YOLOv9\data\val
+test: E:\ZZW\YOLOv9\data\test
+
+nc: 10
+names: ['pedestrain', 'people', 'bicycle', 'car', 'van', 'truck', 'tricycle', 'awning_tricycle', 'bus', 'motor',]
+
