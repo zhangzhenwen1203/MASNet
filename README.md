@@ -1,7 +1,7 @@
 
-# SML-YOLO: An Enhanced Approach for Detecting Small Targets in Complex UAV Imagery
+# MASNet: An enhanced approach for detecting small targets in complex imagery
 
-This repository contains the source code for the paper "SML-YOLO: An enhanced approach for detecting small targets in complex UAV imagery," published in The Visual Computer journal.
+This repository contains the source code for the paper "MASNet: An enhanced approach for detecting small targets in complex imagery", published in The Visual Computer journal.
 
 ## Installation
 
