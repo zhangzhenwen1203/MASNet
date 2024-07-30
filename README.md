@@ -1,5 +1,5 @@
 
-# MASNet: An enhanced approach for detecting small targets in complex imagery
+# MASNet: A novel deep learning approach for enhanced detection of small targets in complex visual graphics
 
 This repository contains the source code for the paper "MASNet: An enhanced approach for detecting small targets in complex imagery", published in The Visual Computer journal.
 
